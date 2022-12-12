@@ -1,0 +1,10 @@
+.feedback-score {
+    height: 30px;
+    width: 60px;
+    font-size: 24px;
+}
+
+.comments {
+    height: 30px;
+    width: 300px;
+}
